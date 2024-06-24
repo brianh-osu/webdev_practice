@@ -1,0 +1,25 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    background-color: rgba(213,225,239,255); 
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+/* @font-face {
+    font-family: 'RAG-Regular';
+    src: url("rag-font-files\Rag-Regular-BF63bf7a570546d.woff") format("woff");
+    font-style: normal; 
+} */
+
+/* By using hash character #, we can select elements with a specific id.  */
+#card{ 
+    background-color: white;
+    width: 225px; 
+    margin: auto;
+    border-radius: 10px;
+    padding: 25px; 
+    text-align: center;
+    /* font-family: 'RAG-Regular';  */
+}
+    
+    
